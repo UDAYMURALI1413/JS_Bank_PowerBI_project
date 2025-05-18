@@ -32,5 +32,7 @@
     Age Distribuation : Show the count of customers based on their age group.
       Representation Type : Clustered Column Chart
 
+<b>Data Link : </b><a href="https://github.com/UDAYMURALI1413/JS_Bank_PowerBI_project/blob/main/JS%20BANK%20Data.xlsx">Link to the Data used</a>
 
+<h3>DASHBOARD</h3>
 ![image](https://github.com/user-attachments/assets/065ca022-328d-435f-9db5-db10f7227c98)
