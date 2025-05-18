@@ -1,8 +1,7 @@
 # JS_Bank_PowerBI_project
 
 <h3>Task : </h3>
-   Analyse the bank data and come up with key insights and observations which will help the bank to roll new schemes to it's existing customers & also attract new customers.
-
+   Analyse and design a PowerBI dashboard using the data of the bank which can be used as a portfolio to represent the current status of the bank.
 <h3>Requirements :</h3>
 
     Count of Customers : Need the total number of Existing customers. 
