@@ -1,6 +1,6 @@
 # JS_Bank_PowerBI_project
 
-<h3>Task : </h3>
+<h3>OBJECTIVE : </h3>
    Analyse and design a PowerBI dashboard using the data of the bank which can be used as a portfolio to represent the current status of the bank.
 <h3>Requirements :</h3>
 
